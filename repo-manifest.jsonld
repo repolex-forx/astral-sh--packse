@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/astral-sh/packse/commit/18be7766b14aa3e03db37bc575959b3f4c6fbacb",
       "git:hexsha": "18be7766b14aa3e03db37bc575959b3f4c6fbacb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T04:14:25.561562+00:00"
     },
     {
       "@id": "https://repolex.ai/r/astral-sh/packse/commit/df20b898fdf1fd242cc19acc2a3148d72aa4d89f",
